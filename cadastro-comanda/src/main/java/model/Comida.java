@@ -11,5 +11,6 @@ public class Comida{
    private boolean vegano;
    private String ingredientes;
    
-   
+   private String teste;
+
 }
